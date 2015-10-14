@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assistive Macros</string>
+    <string name="title">Assistive Macros Instructions</string>
+    <string name="instructions"> \n \u2022 Enable Assistive Macros in Accessibility Settings
+        \n \u2022 Press "Create Macro" to start
+        \n \u2022 Press record from desired starting point
+        \n \u2022 Perform the sequence of commands
+        \n \u2022 Device BACK and HOME buttons not supported
+        \n \u2022 Stop button is draggable
+        \n \u2022 Stop
+        \n \u2022 Set Macro name
+        \n \u2022 A shortcut will be created
+       </string>
+    <string name="contactus"> This is a Beta version please feel free to send us feedback!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_run_macro">RunMacro</string>
+    <string name="manage_macros">Manage Macros</string>
+
+    <string name="recording">Recording...</string>
+    <string name="press_record">Press record to start</string>
+    <string name="title_activity_assistive_macros">Assistive Macros</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+</resources>
